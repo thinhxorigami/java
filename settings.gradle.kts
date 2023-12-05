@@ -7,3 +7,4 @@
  */
 
 rootProject.name = "zely.ngx.java"
+include("tigi-mapper")
